@@ -1,16 +1,18 @@
-## Hi there 👋
+# Software Engineer 
 
-<!--
-**successor1/successor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Core Skills
+- Full stack, application or blockchain development
+- Databases & Frameworks
+- Product design
+- Systems Engineering - Design of architecture and data flow
+- Cryptography
 
-Here are some ideas to get you started:
+## Primary Languages
+- Golang, Python, Javascript/Typescript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Other Languages
+- junior Rust
+- junior C
+
+## Experience
+- QRL (2021-2024)
