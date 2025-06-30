@@ -8,11 +8,11 @@
 - Cryptography
 
 ## Primary Languages
-- Golang, Python, Javascript/Typescript
+- Golang, Rust, Python, Javascript/Typescript
 
 ## Other Languages
-- junior Rust
-- junior C
+- C
+- Solidity
 
 ## Experience
 - QRL (2021-2024)
